@@ -17,7 +17,7 @@ BASIS_01 targets a multi-system landscape containing SAP S/4HANA On-Premise on L
 - [SRC evidence assessment](docs/11-src-evidence-assessment.md)
 - [Phase 1 target design](docs/12-phase1-target-design.md)
 - [SRC artifact register](docs/13-src-file-register.md)
-- [Source evidence directory](SRC/)
+- [Source evidence directory](SRC/)\n- [Phase 1 implementation slice](docs/14-phase1-implementation-slice.md)
 
 ## Non-negotiable rules
 1. Evidence before status: every value has a source, timestamp, quality, freshness and drill-down.
